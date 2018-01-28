@@ -77,7 +77,7 @@ msgstr "Szukaj"
 
 msgctxt "#32011"
 msgid "Genres"
-msgstr "Gatunek"
+msgstr "Gatunki"
 
 msgctxt "#32012"
 msgid "Year"
@@ -109,7 +109,7 @@ msgstr "Najpopularniejsze"
 
 msgctxt "#32019"
 msgid "Most Voted"
-msgstr "Najwięcej Głosów"
+msgstr "Najwięcej głosów"
 
 msgctxt "#32020"
 msgid "Box Office"
@@ -121,11 +121,11 @@ msgstr "Zwycięzcy Oscarów"
 
 msgctxt "#32022"
 msgid "In Theaters"
-msgstr "W Kinach"
+msgstr "W kinach"
 
 msgctxt "#32023"
 msgid "Highly Rated"
-msgstr "Wysoko Oceniane"
+msgstr "Wysoko oceniane"
 
 msgctxt "#32024"
 msgid "Airing today"
@@ -133,11 +133,11 @@ msgstr "Dziś nadawane"
 
 msgctxt "#32025"
 msgid "Returning TV Shows"
-msgstr "Powracające Seriale"
+msgstr "Powracające seriale"
 
 msgctxt "#32026"
 msgid "New TV Shows"
-msgstr "Nowe Seriale"
+msgstr "Nowe seriale"
 
 msgctxt "#32027"
 msgid "TV Calendar"
@@ -145,7 +145,7 @@ msgstr "Kalendarz TV"
 
 msgctxt "#32028"
 msgid "People Search"
-msgstr "Wyszukaj Aktora"
+msgstr "Wyszukaj aktora"
 
 msgctxt "#32029"
 msgid "People (Movies)"
@@ -189,7 +189,7 @@ msgstr "Odcinki"
 
 msgctxt "#32039"
 msgid "Movie Lists"
-msgstr "Lista Filmów"
+msgstr "Lista filmów"
 
 msgctxt "#32040"
 msgid "TV Show Lists"
@@ -205,47 +205,47 @@ msgstr "Nie znaleziono konta Trakt lub IMDb"
 
 msgctxt "#32043"
 msgid "[B]SETTINGS[/B] : General"
-msgstr "[B]Ustawienia[/B]: Ogólne"
+msgstr "[B]USTAWIENIA[/B]: Ogólne"
 
 msgctxt "#32044"
 msgid "[B]SETTINGS[/B] : Accounts"
-msgstr "[B]Ustawienia[/B]: Kont"
+msgstr "[B]USTAWIENIA[/B]: Konta"
 
 msgctxt "#32045"
 msgid "[B]SETTINGS[/B] : Playback"
-msgstr "[B]Ustawienia[/B]: Odtwarzania"
+msgstr "[B]USTAWIENIA[/B]: Odtwarzanie"
 
 msgctxt "#32046"
 msgid "[B]SETTINGS[/B] : Subtitles"
-msgstr "[B]Ustawienia[/B]: Napisów"
+msgstr "[B]USTAWIENIA[/B]: Napisy"
 
 msgctxt "#32047"
 msgid "[B]SETTINGS[/B] : Providers"
-msgstr "[B]Ustawienia[/B]: Źródła"
+msgstr "[B]USTAWIENIA[/B]: Źródła"
 
 msgctxt "#32048"
 msgid "[B]COVENANT[/B] : Downloads"
-msgstr "[B]COVENANT[/B] : Pobieranie"
+msgstr "[B]INCURSION[/B] : Pobieranie"
 
 msgctxt "#32049"
 msgid "[B]COVENANT[/B] : Viewtypes"
-msgstr "[B]COVENANT[/B] : Styl wyświetlania"
+msgstr "[B]INCURSION[/B] : Styl wyświetlania"
 
 msgctxt "#32050"
 msgid "[B]COVENANT[/B] : Clear providers..."
-msgstr "[B]COVENANT[/B] : Wyczyść Źródła..."
+msgstr "[B]INCURSION[/B] : Wyczyść źródła..."
 
 msgctxt "#32051"
 msgid "[B]COVENANT[/B] : Clear metadata..."
-msgstr "[B]COVENANT[/B] : Wyczyść metadane..."
+msgstr "[B]INCURSION[/B] : Wyczyść metadane..."
 
 msgctxt "#32052"
 msgid "[B]COVENANT[/B] : Clear cache..."
-msgstr "[B]COVENANT[/B] : Wyczyść Cache..."
+msgstr "[B]INCURSION[/B] : Wyczyść cache..."
 
 msgctxt "#32053"
 msgid "[I]Next Page[/I]"
-msgstr "[I]Następna Strona[/I]"
+msgstr "[I]Następna strona[/I]"
 
 msgctxt "#32054"
 msgid "Seasons"
@@ -261,7 +261,7 @@ msgstr "Jesteś pewien?"
 
 msgctxt "#32057"
 msgid "Process Complete"
-msgstr "Proces Ukończony"
+msgstr "Proces zakończony"
 
 msgctxt "#32058"
 msgid "This will slow down things until they are re-cached!"
@@ -302,7 +302,7 @@ msgstr "Obejrzane w Covenant"
 
 msgctxt "#32067"
 msgid "Unwatched in Covenant"
-msgstr "Nieobejrzane w Covenant"
+msgstr "Nieobejrzane w Incursion"
 
 msgctxt "#32068"
 msgid "Watched in Trakt"
@@ -318,7 +318,7 @@ msgstr "Menedżer Trakt"
 
 msgctxt "#32071"
 msgid "Browse Series"
-msgstr "Przeglądaj Seriale"
+msgstr "Przeglądaj seriale"
 
 msgctxt "#32072"
 msgid "Refresh"
@@ -398,7 +398,7 @@ msgstr "Język"
 
 msgctxt "#32317"
 msgid "Flatten TV seasons"
-msgstr "Spłaszczaj Sezony Seriali"
+msgstr "Spłaszczaj sezony seriali"
 
 msgctxt "#32318"
 msgid "Enable Fanart"
@@ -410,7 +410,7 @@ msgstr "Menu"
 
 msgctxt "#32320"
 msgid "New Movies"
-msgstr "Nowe Filmy"
+msgstr "Nowe filmy"
 
 msgctxt "#32321"
 msgid "Featured"
@@ -430,7 +430,7 @@ msgstr "W kinach"
 
 msgctxt "#32325"
 msgid "New Episodes"
-msgstr "Nowe Odcinki"
+msgstr "Nowe odcinki"
 
 msgctxt "#32326"
 msgid "Episodes"
@@ -438,15 +438,15 @@ msgstr "Odcinki"
 
 msgctxt "#32327"
 msgid "Trakt Progress"
-msgstr "Trakt Progres"
+msgstr "Trakt progres"
 
 msgctxt "#32328"
 msgid "Trakt Episodes"
-msgstr "Trakt Odcinki"
+msgstr "Trakt odcinki"
 
 msgctxt "#32329"
 msgid "My Lists"
-msgstr "Moje Listy"
+msgstr "Moje listy"
 
 msgctxt "#32330"
 msgid "Playback"
@@ -454,7 +454,7 @@ msgstr "Odtwarzanie"
 
 msgctxt "#32331"
 msgid "Default action"
-msgstr "Domyślna Akcja"
+msgstr "Domyślna akcja"
 
 msgctxt "#32332"
 msgid "Dialog"
@@ -486,11 +486,11 @@ msgstr "Filtr hostingów"
 
 msgctxt "#32339"
 msgid "Max Quality"
-msgstr "Maksymalna Jakość"
+msgstr "Maksymalna jakość"
 
 msgctxt "#32340"
 msgid "SD Hosters in Auto Play"
-msgstr "Autoodtwarzanie Hostingów SD"
+msgstr "Autoodtwarzanie hostingów SD"
 
 msgctxt "#32341"
 msgid "Hosters with captchas"
@@ -498,7 +498,7 @@ msgstr "Hostingi z captcha"
 
 msgctxt "#32342"
 msgid "Sort by Provider"
-msgstr "Sortuj Według Źródła"
+msgstr "Sortuj według źródła"
 
 msgctxt "#32343"
 msgid "When playback starts..."
@@ -522,7 +522,7 @@ msgstr "Pobieranie"
 
 msgctxt "#32348"
 msgid "Enable downloads"
-msgstr "Włącz Pobieranie"
+msgstr "Włącz pobieranie"
 
 msgctxt "#32349"
 msgid "Movies"
@@ -550,7 +550,7 @@ msgstr "Włącz Napisy"
 
 msgctxt "#32355"
 msgid "Convert subtitles to UTF-8"
-msgstr "Konwertuj Napisy do UTF-8"
+msgstr "Konwertuj napisy do UTF-8"
 
 msgctxt "#32356"
 msgid "Primary Language"
@@ -594,11 +594,11 @@ msgstr "%s sekund"
 
 msgctxt "#32406"
 msgid "Remaining providers: %s"
-msgstr "Pozostałe Źródła: %s"
+msgstr "Pozostałe źródła: %s"
 
 msgctxt "#32407"
 msgid "Are you sure?"
-msgstr "Jesteś Pewien?"
+msgstr "Jesteś pewien?"
 
 msgctxt "#32408"
 msgid "Process Complete"
@@ -606,7 +606,7 @@ msgstr "Proces ukończony"
 
 msgctxt "#32501"
 msgid "Start from beginning"
-msgstr "Zacznij Od Początku"
+msgstr "Zacznij od początku"
 
 msgctxt "#32502"
 msgid "Resume from %s"
@@ -638,11 +638,11 @@ msgstr "Menedżer Trakt"
 
 msgctxt "#32516"
 msgid "Add to [B]Collection[/B]"
-msgstr "Dodaj do Kolekcji"
+msgstr "Dodaj do kolekcji"
 
 msgctxt "#32517"
 msgid "Remove from [B]Collection[/B]"
-msgstr "Usuń z Kolekcji"
+msgstr "Usuń z kolekcji"
 
 msgctxt "#32518"
 msgid "Add to [B]Watchlist[/B]"
@@ -654,7 +654,7 @@ msgstr "Usuń z obserwowanych"
 
 msgctxt "#32520"
 msgid "Add to [B]new List[/B]"
-msgstr "Dodaj do nowej Listy"
+msgstr "Dodaj do nowej listy"
 
 msgctxt "#32521"
 msgid "Add to [B]%s[/B]"
@@ -710,7 +710,7 @@ msgstr "Biblioteka"
 
 msgctxt "#32542"
 msgid "Covenant folders will be imported to library if they are added to media sources."
-msgstr "Foldery Covenant zostaną zaimportowane do biblioteki, jeśli zostaną dodane do źródeł multimedialnych."
+msgstr "Foldery Incursion zostaną zaimportowane do biblioteki, jeśli zostaną dodane do źródeł multimedialnych."
 
 msgctxt "#32543"
 msgid "Movies"
@@ -786,19 +786,19 @@ msgstr "[B]COVENANT[/B] : Folder telewizji..."
 
 msgctxt "#32561"
 msgid "[B]TRAKT[/B] : Import Collection..."
-msgstr "[B]TRAKT[/B] : Importuj Kolekcję..."
+msgstr "[B]TRAKT[/B] : Importuj kolekcję..."
 
 msgctxt "#32562"
 msgid "[B]TRAKT[/B] : Import Watchlist..."
-msgstr "[B]TRAKT[/B] : Importuj Listę Obserwowanych..."
+msgstr "[B]TRAKT[/B] : Importuj listę obejrzanych..."
 
 msgctxt "#32563"
 msgid "[B]TRAKT[/B] : Import TV Collection..."
-msgstr "[B]TRAKT[/B] : Importuj Kolekcję TV..."
+msgstr "[B]TRAKT[/B] : Importuj kolekcję TV..."
 
 msgctxt "#32564"
 msgid "[B]TRAKT[/B] : Import TV Watchlist..."
-msgstr "[B]TRAKT[/B] : Importuj Listę Obserwowanych Trakt..."
+msgstr "[B]TRAKT[/B] : Importuj listę obejrzanych Trakt..."
 
 msgctxt "#32565"
 msgid "Include episodes with unknown air dates"
@@ -822,7 +822,7 @@ msgstr "Filmy/Filmy TV"
 
 msgctxt "#32581"
 msgid "Results Limit"
-msgstr "Limit Rezultatów"
+msgstr "Limit wyników"
 
 msgctxt "#32582"
 msgid "Personal API keys provide quicker API responses."
@@ -834,7 +834,7 @@ msgstr "Zostań członkiem VIP dla większych korzyści na: https://fanart.tv/vi
 
 msgctxt "#32584"
 msgid "Sort order for Trakt Watched Progress"
-msgstr "Sortuj wynik po Stanie Obejrzenia Trakt"
+msgstr "Sortuj wynik po stanie obejrzenia Trakt"
 
 msgctxt "#32585"
 msgid "Recently aired"
@@ -846,11 +846,11 @@ msgstr "Ostatnio oglądane"
 
 msgctxt "#32587"
 msgid "Show Extra Source Info"
-msgstr "Pokaż Ekstra Informacje Źródła"
+msgstr "Pokaż dodatkowe informacje źródła"
 
 msgctxt "#32588"
 msgid "Premium Source Identifier Color"
-msgstr "Kolor Identyfikujący Źródło Premium"
+msgstr "Kolor identyfikujący źródło Premium"
 
 msgctxt "#32589"
 msgid "Blue"
@@ -914,7 +914,7 @@ msgstr "Nowe szukanie..."
 
 msgctxt "#32604"
 msgid "[B]COVENANT[/B] : Clear search history..."
-msgstr "[B]COVENANT[/B] : Wyczyść historię wyszukiwania..."
+msgstr "[B]INCURSION[/B] : Wyczyść historię wyszukiwania..."
 
 msgctxt "#32605"
 msgid "Click to clear search history"
